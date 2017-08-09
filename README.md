@@ -10,7 +10,7 @@ For those (as me) living in Latin America without a fluent spoken English, well.
 
 ## How to contribute - Please do it!
 
-Give your opinion. I think we could build a helpful list for anyone. Whatever language or technologies you use, we all need to know the basics, and that is what this list is. The basis, or the general topics we all need to know. And to know it very well.
+Give your opinion [**here**](https://github.com/abelosorio/how-to-become-a-senior-web-developer/issues/1). I think we could build a helpful list for anyone. Whatever language or technologies you use, we all need to know the basics, and that is what this list is. The basis, or the general topics we all need to know. And to know it very well.
 
 # The list
 
