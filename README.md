@@ -85,6 +85,7 @@ These are books I have really read (related to this document, of course):
 
   * *Understanding ECMAScript 6*, by Nicholas C. Zakas. ISBN-10: 1593277571, ISBN-13: 9781593277574.
   * *Rails, Angular, Postgres, and Bootstrap*, by David Bryant Copeland. ISBN: 9781680501261, Google: L1T2sgEACAAJ.
+  * *Clean Code: A Handbook of Agile Software Craftsmanship*, by Robert C. Martin. ISBN-10: 0132350882, ISBN-13: 978-0132350884.
 
 Other links:
 
