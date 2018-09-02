@@ -4,13 +4,13 @@
 
 ## Introduction
 
-I'm trying to build a list of topics, technologies, or anything I need to become a *Senior Web Developer*. I want this list to not only helping me but anyone (actually any Web Developer) to become a Senior. **I know** that just knowing the following things is not enough, and we all need a big amount of years of work experience. **I also know** that this list could vary depends on the specific language or web development branch we choose.
+I'm trying to build a list of topics, technologies, or anything I need to become a *Senior Web Developer*. I want this list to not only helping me but anyone (actually any Web Developer) to become a Senior. **I know** that just knowing the following things is not enough, and we all need very many years of work experience. **I also know** that this list could vary depends on the specific language or web development branch we choose.
 
-For those (as me) living in Latin America without a fluent spoken **English**, well.. that **is another must**!
+For those (like me) living in Latin America without a fluent spoken **English**, well.. that **is another must**!
 
 ## How to contribute - Please do it!
 
-Give your opinion [**here**](https://github.com/abelosorio/how-to-become-a-senior-web-developer/issues/1). I think we could build a helpful list for anyone. Whatever language or technologies you use, we all need to know the basics, and that is what this list is. The basis, or the general topics we all need to know. And to know it very well.
+Give your opinion [**here**](https://github.com/abelosorio/how-to-become-a-senior-web-developer/issues/1). I think we could build a helpful list for anyone. Whatever language or technologies you use, we all need to know the basics, and that is what this list pretends to be. The basis, or the general topics we all need to know. And to know it very well.
 
 # The list
 
@@ -90,3 +90,4 @@ These are books I have really read (related to this document, of course):
 Other links:
 
   * [Design Patters in Object Oriented Programming](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc), by Christopher Okhravi.
+  * [Integrated Tests Are A Scam](https://vimeo.com/80533536), by J.B. Rainsberger.
