@@ -14,10 +14,24 @@ Give your opinion [**here**](https://github.com/abelosorio/how-to-become-a-senio
 
 # The list
 
+## The very first thing: Programmer's Oath
+
+If you're reading this guide it's because you're a programmer or you want to become one.
+
+This is a profession. People often dedicate their lives to this career. There are grades, masteries, PhDs, and other kinds of specializations. Other people, including me, dedicate their lives studying by themselves.
+
+This is something serious. Anyway, if you want to learn to programme just for fun it's OK too, but you have to do it respecting other programmers.
+
+Robert C. Martin (Uncle Bob) presented a list of rules that every programmer should agree with, in order to create a community where respect is put first.
+
+You should read, understand, and have this rules present in your daily work, code, and mind.
+
+I recommend to watch first the [YouTube video](https://www.youtube.com/watch?v=Tng6Fox8EfI) and then the [oath itself](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html).
+
 ## Basics
 
-  * Algorithm design techniques
-  * Calculation of complexity (Big-O notation)
+  * Algorithm design techniques.
+  * Calculation of complexity (Big-O notation).
 
 ## Programming paradigms
 
@@ -25,7 +39,7 @@ Give your opinion [**here**](https://github.com/abelosorio/how-to-become-a-senio
 
 ### Logic programming
 
-### Object oriented
+### Object oriented programming
 
   * Design patterns
   * SOLID
@@ -36,19 +50,19 @@ Give your opinion [**here**](https://github.com/abelosorio/how-to-become-a-senio
 
 ### Relational
 
-Yes, there are a lot of good ORMs and we should use them but a basic acknowledgment of these technologies is very important as well.
+Yes, there are a lot of good ORMs and we may use them, but a basic acknowledgment of these technologies is very important as well.
 
   * Basic SQL understanding.
-  * PostgreSQL
-  * MySQL
-  * SQLite
+  * PostgreSQL.
+  * MySQL.
+  * SQLite.
 
 ### Non-relational
 
-  * MongoDB
-  * Memcache
-  * Casandra
-  * Redis
+  * MongoDB.
+  * Memcache.
+  * Casandra.
+  * Redis.
   
 ## Agile
 
@@ -86,8 +100,11 @@ These are books I have really read (related to this document, of course):
   * *Understanding ECMAScript 6*, by Nicholas C. Zakas. ISBN-10: 1593277571, ISBN-13: 9781593277574.
   * *Rails, Angular, Postgres, and Bootstrap*, by David Bryant Copeland. ISBN: 9781680501261, Google: L1T2sgEACAAJ.
   * *Clean Code: A Handbook of Agile Software Craftsmanship*, by Robert C. Martin. ISBN-10: 0132350882, ISBN-13: 978-0132350884.
+  * *Refactoring: Ruby Edition*, by Jay Fields, Shane Harvie, Martin Fowler and Kent Beck. ISBN-10: 0321984137, ISBN-13: 978-0321984135.
 
 Other links:
 
   * [Design Patters in Object Oriented Programming](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc), by Christopher Okhravi.
   * [Integrated Tests Are A Scam](https://vimeo.com/80533536), by J.B. Rainsberger.
+  * [GOTO 2017 • The Scribe's Oath • Robert "Uncle Bob" Martin](https://www.youtube.com/watch?v=Tng6Fox8EfI), by Robert C. Martin.
+  * [The Programmer's Oath](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html), by Robert C. Martin.
