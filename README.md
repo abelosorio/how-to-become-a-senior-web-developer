@@ -32,6 +32,11 @@ I recommend to watch first the [YouTube video](https://www.youtube.com/watch?v=T
 
   * Algorithm design techniques.
   * Calculation of complexity (Big-O notation).
+  
+### Maths
+
+  * Set theory.
+  * Mathematical logic.
 
 ## Programming paradigms
 
