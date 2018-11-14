@@ -4,9 +4,9 @@
 
 ## Introduction
 
-I'm trying to build a list of topics, technologies, or anything I need to become a *Senior Web Developer*. I want this list to not only helping me but anyone (actually any Web Developer) to become a Senior. **I know** that just knowing the following things is not enough, and we all need very many years of work experience. **I also know** that this list could vary depends on the specific language or web development branch we choose.
+I'm trying to build a list of topics, technologies, or anything I need to become a *Senior Web Developer*. I want this list to not only helping me but anyone (actually any Web Developer) to become a Senior. **I know** that just knowing the following things is not enough, and we all need very many years of work experience. **I also know** that this list could vary depending on the specific language or web development branch we choose.
 
-For those (like me) living in Latin America without a fluent spoken **English**, well.. that **is another must**!
+For those (like me) living in Latin America without a fluent spoken **English**, well... that **is another must**!
 
 ## How to contribute - Please do it!
 
